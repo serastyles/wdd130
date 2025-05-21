@@ -1,0 +1,35 @@
+.callout {
+    max-width: 150;
+    margin: 10;
+    border: 10;
+    padding: 25;
+    background-color: cadetblue;
+    text-decoration-color: whitesmoke;
+	
+}
+
+.callout img {
+    position: sticky;
+    margin: 20;
+    border: 50;
+    padding: 30;
+    background-color: black;
+    width: 200;
+    height: 350;
+
+
+	
+}
+
+blockquote {
+    margin: 20;
+	
+}
+
+cite {display: inline;
+    border: top 2px dotted floralwhite;
+    padding-top: 0in;
+    text-align: left;
+    font-size-adjust: initial;
+	
+}
